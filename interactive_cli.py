@@ -11,7 +11,7 @@ from ChatHistory import ChatHistory
 models = {
     'chat':{
         'class': LocalCausalModelManager,
-        'path': '/home/sehh/.cache/huggingface/hub/models--Qwen--Qwen1.5-0.5B-Chat/snapshots/4d14e384a4b037942bb3f3016665157c8bcb70ea',
+        'path': '',
     },
     'translate': {
         'class': LocalTranslateModelManager,
