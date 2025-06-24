@@ -2,7 +2,7 @@ from BaseLLMInterface import BaseLLM, UnKnowRoleError
 from transformers import AutoModelForCausalLM
 
 
-model_path = '/home/sehh/.cache/huggingface/hub/models--Qwen--Qwen1.5-0.5B-Chat/snapshots/4d14e384a4b037942bb3f3016665157c8bcb70ea'
+model_path = ''
 
 MAX_TURNS = 5
 
